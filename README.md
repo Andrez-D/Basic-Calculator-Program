@@ -1,5 +1,7 @@
 # Basic-Calculator-Program
 It is a simple calculator that calculates.
+
+
 How it works:
 The program accepts two numbers (floats to allow decimals).
 
